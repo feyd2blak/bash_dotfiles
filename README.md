@@ -31,6 +31,6 @@ https://github.com/powerline/powerline
 
 ### OSX
 A nice terminal colourisation for MAC
-https://github.com/feyd2blak/bash_dotfiles.git
+https://ethanschoonover.com/solarized/
 
 
