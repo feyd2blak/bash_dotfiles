@@ -28,3 +28,9 @@ dnf install vim-powerline
 ```
 Installs a set of colours and banners for vim, not vi, that recognise git
 https://github.com/powerline/powerline
+
+### OSX
+A nice terminal colourisation for MAC
+https://github.com/feyd2blak/bash_dotfiles.git
+
+
