@@ -21,4 +21,10 @@ cd dotfiles
 ```
 ./install.sh
 ```
-
+## Other useful Terminal stuff
+### vim
+```
+dnf install vim-powerline
+```
+Installs a set of colours and banners for vim, not vi, that recognise git
+https://github.com/powerline/powerline
