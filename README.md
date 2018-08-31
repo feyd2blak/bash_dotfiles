@@ -31,6 +31,9 @@ https://github.com/powerline/powerline
 
 ### OSX
 A nice terminal colourisation for MAC
+
+https://medium.freecodecamp.org/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22
+
 https://ethanschoonover.com/solarized/
 
 
